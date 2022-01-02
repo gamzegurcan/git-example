@@ -1,1 +1,2 @@
 First pull request1 text file created.
+Gamze and Ömer are learning git 
