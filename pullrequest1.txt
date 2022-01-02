@@ -1,2 +1,7 @@
 First pull request1 text file created.
 Gamze and Ömer are learning git 
+I learned how to fetch and merge. 
+#Firstly on github accept some features and write terminal theses.
+1- git pull 
+2- git merge origin-main
+3- waiting..
